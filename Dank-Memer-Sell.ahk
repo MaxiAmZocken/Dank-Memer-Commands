@@ -11,4 +11,4 @@ Send, pls sell deer max {enter}
 Sleep, 2000
 Send, pls sell sand max {enter}
 Sleep, 2000
-Send, pls sell  duck {enter}
+Send, pls sell duck max {enter}
