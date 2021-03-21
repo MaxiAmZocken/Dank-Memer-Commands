@@ -14,5 +14,3 @@ Sleep, 3000
 Send, pls sell duck max {enter}
 Sleep, 3000
 Send, pls sell tidepod max {enter}
-Sleep, 3000
-Send, pls sell duck max {enter}
