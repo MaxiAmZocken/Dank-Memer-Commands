@@ -5,6 +5,8 @@ Send, pls hunt {enter}
 Sleep, 2000
 Send, pls fish {enter}
 Sleep, 2000
+Send pls dig {enter}
+Sleep, 2000
 Send, pls postmeme {enter}
 Sleep, 2000
 Send, F {enter}
