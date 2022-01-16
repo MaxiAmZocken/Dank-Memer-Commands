@@ -1,4 +1,6 @@
+ToolTip, Script will be started in 5 seconds
 Sleep, 5000
+ToolTip, 
 Send, pls Beg {enter}
 Sleep, 2000
 Send, pls hunt {enter}
